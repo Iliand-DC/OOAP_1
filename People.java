@@ -1,3 +1,6 @@
+import Interfaces.IMovement;
+import Interfaces.ISpeech;
+
 public class People {
     private ISpeech _speech;
     private IMovement _movement;

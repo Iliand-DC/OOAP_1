@@ -1,3 +1,8 @@
+import Movement.MoveOnCar;
+import Speech.SayGoodbye;
+import Speech.SayHello;
+import Movement.MoveOnFlight;
+
 class Main {
     public static void main(String[] args) {
         People Bob = new People(new SayHello());
