@@ -1,5 +1,4 @@
-class Main
-{
+class Main {
     public static void main(String[] args) {
         People Bob = new People(new SayHello());
         Bob.SaySomething();

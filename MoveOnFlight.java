@@ -1,6 +1,5 @@
 public class MoveOnFlight implements IMovement {
-    public void Move()
-    {
+    public void Move() {
         System.out.println("Двигается на самолёте.");
     }
 }
